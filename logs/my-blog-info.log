@@ -1,0 +1,78 @@
+2019-03-06 13:22:50.519 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 13:22:50.852 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 13:23:08.599 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 13:23:08.608 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 13:23:11.454 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-03-06 13:23:11.472 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-03-06 14:04:16.613 [http-nio-80-exec-4] INFO  com.my.blog.website.service.impl.UserServiceImpl - a66abb5684c45962d887564f08346e8d
+2019-03-06 14:07:47.262 [http-nio-80-exec-10] INFO  com.my.blog.website.service.impl.UserServiceImpl - a66abb5684c45962d887564f08346e8d
+2019-03-06 14:08:27.663 [http-nio-80-exec-4] INFO  com.my.blog.website.service.impl.UserServiceImpl - a66abb5684c45962d887564f08346e8d
+2019-03-06 14:08:43.251 [http-nio-80-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-03-06 14:08:43.251 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-03-06 14:08:43.299 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-03-06 14:08:43.299 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-03-06 14:08:43.321 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-03-06 14:08:43.321 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-03-06 14:08:43.360 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-03-06 14:08:43.360 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-03-06 14:08:43.368 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-03-06 14:08:43.368 [http-nio-80-exec-6] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-03-06 14:11:13.826 [http-nio-80-exec-4] DEBUG com.my.blog.website.service.impl.RelationshipServiceImpl - Enter countById method:cid=3,mid=7
+2019-03-06 14:11:13.834 [http-nio-80-exec-4] DEBUG com.my.blog.website.service.impl.RelationshipServiceImpl - Exit countById method return num=0
+2019-03-06 14:11:28.156 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:11:28.190 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 14:24:40.677 [http-nio-80-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:24:40.684 [http-nio-80-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 14:29:03.743 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:29:03.965 [http-nio-80-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:29:11.593 [http-nio-80-exec-3] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:29:11.604 [http-nio-80-exec-3] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:29:13.760 [http-nio-80-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:29:13.771 [http-nio-80-exec-6] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:31:03.575 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:31:03.731 [http-nio-80-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:31:20.069 [http-nio-80-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:31:20.082 [http-nio-80-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:32:54.752 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:32:54.922 [http-nio-80-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:32:56.710 [http-nio-80-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:32:56.723 [http-nio-80-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:39:24.034 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:39:24.332 [http-nio-80-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:39:26.585 [http-nio-80-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:39:26.596 [http-nio-80-exec-4] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Error attempting to get column 'created' from result set.  Cause: java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+; Unsupported conversion from TIMESTAMP to java.lang.Integer; nested exception is java.sql.SQLDataException: Unsupported conversion from TIMESTAMP to java.lang.Integer
+2019-03-06 14:42:21.406 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 14:42:21.636 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 15:11:34.339 [http-nio-80-exec-3] INFO  com.my.blog.website.service.impl.UserServiceImpl - a66abb5684c45962d887564f08346e8d
+2019-03-06 15:12:39.303 [http-nio-80-exec-7] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-03-06 15:12:39.303 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-03-06 15:12:39.308 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-03-06 15:12:39.308 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-03-06 15:12:39.321 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-03-06 15:12:39.321 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-03-06 15:12:39.344 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-03-06 15:12:39.344 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-03-06 15:12:39.354 [http-nio-80-exec-7] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-03-06 15:12:39.354 [http-nio-80-exec-7] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-03-06 15:13:06.424 [http-nio-80-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 15:13:06.447 [http-nio-80-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 15:13:09.066 [http-nio-80-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 15:13:09.073 [http-nio-80-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 15:13:13.305 [http-nio-80-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 15:13:13.314 [http-nio-80-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 15:13:14.203 [http-nio-80-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-06 15:13:14.211 [http-nio-80-exec-5] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-06 15:15:43.811 [http-nio-80-exec-10] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'bk_type' is not present
+2019-03-06 15:16:57.482 [http-nio-80-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-06 15:17:00.482 [http-nio-80-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-06 15:17:15.286 [http-nio-80-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-06 15:17:27.636 [http-nio-80-exec-10] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present

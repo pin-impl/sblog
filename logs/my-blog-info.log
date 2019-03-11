@@ -76,3 +76,69 @@
 2019-03-06 15:17:00.482 [http-nio-80-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
 2019-03-06 15:17:15.286 [http-nio-80-exec-1] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
 2019-03-06 15:17:27.636 [http-nio-80-exec-10] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:27:35.434 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:27:36.377 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:31:52.366 [http-nio-8080-exec-4] INFO  com.my.blog.website.service.impl.UserServiceImpl - a66abb5684c45962d887564f08346e8d
+2019-03-11 21:32:28.869 [http-nio-8080-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:32:28.901 [http-nio-8080-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:32:54.379 [http-nio-8080-exec-5] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:32:56.484 [http-nio-8080-exec-6] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:32:57.121 [http-nio-8080-exec-8] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:32:57.358 [http-nio-8080-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:32:57.540 [http-nio-8080-exec-9] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:33:25.916 [http-nio-8080-exec-10] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:33:56.064 [http-nio-8080-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:33:56.077 [http-nio-8080-exec-4] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:33:58.031 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:33:58.041 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:36:48.849 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:36:48.868 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:36:51.255 [http-nio-8080-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:36:51.268 [http-nio-8080-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:40:50.601 [http-nio-8080-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:40:50.617 [http-nio-8080-exec-10] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:46:17.693 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:46:17.876 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:46:25.173 [http-nio-8080-exec-7] ERROR com.my.blog.website.controller.GlobalExceptionHandler - find exception:e=Required String parameter 'title' is not present
+2019-03-11 21:48:32.643 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:48:32.820 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:54:57.614 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:54:57.633 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:55:00.328 [http-nio-8080-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:55:00.340 [http-nio-8080-exec-8] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:56:46.225 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-03-11 21:56:46.242 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-03-11 21:56:50.532 [http-nio-8080-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-03-11 21:56:50.542 [http-nio-8080-exec-5] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-03-11 21:56:51.288 [http-nio-8080-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-03-11 21:56:51.306 [http-nio-8080-exec-6] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-03-11 21:56:59.460 [http-nio-8080-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 21:56:59.470 [http-nio-8080-exec-7] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 21:58:38.418 [http-nio-8080-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-03-11 21:58:38.419 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-03-11 21:58:38.430 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-03-11 21:58:38.430 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-03-11 21:58:38.442 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-03-11 21:58:38.443 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-03-11 21:58:38.459 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-03-11 21:58:38.460 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-03-11 21:58:38.473 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-03-11 21:58:38.473 [http-nio-8080-exec-9] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-03-11 21:59:47.967 [http-nio-8080-exec-1] INFO  com.my.blog.website.controller.admin.IndexController - Enter admin index method
+2019-03-11 21:59:47.967 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentComments method:limit=5
+2019-03-11 21:59:47.973 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentComments method
+2019-03-11 21:59:47.973 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter recentContents method
+2019-03-11 21:59:47.984 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit recentContents method
+2019-03-11 21:59:47.984 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getStatistics method
+2019-03-11 21:59:47.999 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getStatistics method
+2019-03-11 21:59:47.999 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Enter getLogs method:page=1,linit=5
+2019-03-11 21:59:48.008 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.LogServiceImpl - Exit getLogs method
+2019-03-11 21:59:48.008 [http-nio-8080-exec-1] INFO  com.my.blog.website.controller.admin.IndexController - Exit admin index method
+2019-03-11 22:04:50.914 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 22:04:50.925 [http-nio-8080-exec-9] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 22:10:47.733 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
+2019-03-11 22:10:47.744 [http-nio-8080-exec-1] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
+2019-03-11 22:11:10.982 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 22:11:10.992 [http-nio-8080-exec-2] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
+2019-03-11 22:11:22.364 [http-nio-8080-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
+2019-03-11 22:11:22.376 [http-nio-8080-exec-6] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
